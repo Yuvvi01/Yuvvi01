@@ -1,6 +1,6 @@
 ### Hey, there 👋
 
-![GitHub All Releases](https://github-readme-stats.vercel.app/api?Yuvvi01={Yuvvi01}&theme=blue-green)
+![GitHub All Releases](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
 I am Yuvraj Singh. I am an Undergraduate at Vellore  Institute of Technology. I am intrested in CTF, Network Security and Cryptography. I beleive best security is through education. My dream project is connecting Neural network and quantum cryptography.  
 
 <!--
