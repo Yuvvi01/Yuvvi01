@@ -1,7 +1,7 @@
 # Yuvvi01's Code Haven
 
 <div align="center">
-  <img src="[https://github.com/Yuvvi01/Yuvvi01/blob/main/assets/yuvvi01_banner.png](https://drive.google.com/file/d/1QtnhQCdUKFbtQiRSmtslbV7DMQ579X51/view?usp=sharing)" alt="Yuvvi01's Code Haven">
+  <img src="[https://drive.google.com/file/d/1QtnhQCdUKFbtQiRSmtslbV7DMQ579X51/view?usp=sharing](https://drive.google.com/file/d/1QtnhQCdUKFbtQiRSmtslbV7DMQ579X51/view?usp=sharing)" alt="Yuvvi01's Code Haven">
 </div>
 
 ## Hey there! 👋 I'm Yuvvi01, a cybersecurity integrated master's student passionate about coding and security.
