@@ -4,7 +4,7 @@
 
 Hi there! I'm a **dedicated** security professional committed to securing the digital world. I blend **calm focus** with a **driven approach**, ensuring systems stand strong and data stays protected.
 
-**Ready to delve deeper?**
+**Ready to explore more?**
 
 * **Seasoned in:** Product security, cloud security, and penetration testing.
 * **Security toolkit pro:** Kali Linux, Burp Suite, Nmap, Metasploit, and more.
