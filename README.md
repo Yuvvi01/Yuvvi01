@@ -4,43 +4,46 @@
 
 ### About Me
 
-🎓 Penultimate year student at VIT Bhopal University, pursuing an integrated master's in cybersecurity.
+## Yuvraj Singh | Cybersecurity & Cloud Security
 
-🔍 Actively engaged in security research and always looking for new challenges.
+**Contact:**
 
-💻 Proficient in C++, Python, and Java.
+* Email: yuvrajsingh3440@gmail.com
+* LinkedIn: yuvraj-singh-01 
+* Twitter: Yuvvi01
 
-🧠 Loves solving Data Structures and Algorithms problems.
+**Experience:**
 
-🚀 Currently in Tryhackme's top 1%.
+* **Product Security Engineer** (Present)
+* **Cloud Security Engineer** (Present)
+* **Cybersecurity Analyst Intern** (Nov 2022 - Oct 2023) at SECURE, VITB University
+* **Cybersecurity Analyst Intern** (Jun 2022 - Aug 2022) at Cybersocial.Co., Ltd.
 
-🔐 Enthusiast in Capture The Flag (CTF) challenges.
+**Education:**
 
-### My Tech Toolbox
+* Integrated M. Tech in CSE with Specialization in Cybersecurity (Present) at VIT Bhopal University
 
-🚀 **Languages:**
-   - C++
-   - Python
-   - Java
+**Projects & Research:**
 
-🔒 **Security Skills:**
-   - Penetration Testing
-   - Cryptography
-   - Web Application Security
+* Shakuni (LLM vulnerability scanner)
+* Cyber Range (AWS-hosted AD lab with Windows Server 2019)
+* OWASP Product Security Guide
+* Exploring Applications of Blockchain In Healthcare: Road map and Future Directions
+* Securing Advanced Metering Infrastructure using Blockchain for Effective Energy Trading
 
-🧩 **Data Structures & Algorithms:**
-   - Regular participant in coding contests
-   - Top 1% in Tryhackme
+**Technical Skills:**
 
-### Projects Highlights
+* Languages: C/C++, Python, Bash
+* Security Tools: Kali Linux, Nmap, Wireshark, Metasploit, Burp Suite, Nessus, AppScan, WebInspect, Nexpose, Acunetix, SonarQube, Qualys Guard, Firewall, IDS/IPS, Routers, Switches, Nikto, OWASP ZAP
+* Technologies/Protocols: Agile, Scrum, DevOps processes, Application Security, SSL, SSH, VPN, Ethernet Token Ring, WAP, SMTP, FTP, Frame Relay, WAN, ATM, FDDI, DSL, ISDN, OWASP Top 10
 
-#### 1. [Awesome-CTF-Solutions](https://github.com/Yuvvi01/Awesome-CTF-Solutions)
+**Certifications:**
 
-   Curated collection of my solutions to various Capture The Flag challenges. Learn and level up your cybersecurity skills!
+* Certified Ethical Hacker (CEH)
+* CCSP - AWS Security
+* Palo Alto Networks Cybersecurity Professional Certificate
 
-#### 2. [DSA-Playground](https://github.com/Yuvvi01/DSA-Playground)
-
-   Repository housing my implementations and solutions to various Data Structures and Algorithms problems. A great resource for fellow learners!
+**Note:** This is a condensed version of your information. You can customize it further by adding a personal bio, highlighting specific achievements, or showcasing relevant links.
 
 ### Let's Connect 🤝
 
