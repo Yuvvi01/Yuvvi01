@@ -2,7 +2,7 @@
 
 **Yuvraj Singh | Cybersecurity & Cloud Security Expert**
 
-Hi there! I'm a **dedicated** security professional committed to securing the digital realm. I blend **calm focus** with a **driven approach**, ensuring systems stand strong and data stays protected.
+Hi there! I'm a **dedicated** security professional committed to securing the digital world. I blend **calm focus** with a **driven approach**, ensuring systems stand strong and data stays protected.
 
 **Ready to delve deeper?**
 
