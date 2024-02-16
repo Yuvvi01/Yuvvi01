@@ -6,12 +6,6 @@
 
 ## Yuvraj Singh | Cybersecurity & Cloud Security
 
-**Contact:**
-
-* Email: yuvrajsingh3440@gmail.com
-* LinkedIn: yuvraj-singh-01 
-* Twitter: Yuvvi01
-
 **Experience:**
 
 * **Product Security Engineer** (Present)
