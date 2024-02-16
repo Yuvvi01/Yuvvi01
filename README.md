@@ -1,6 +1,4 @@
-# Yuvvi01's Code Haven
 
-## Hey there! 👋 I'm Yuvvi01, a cybersecurity integrated master's student passionate about coding and security.
 ## Monk like patience, warrior like spirit.
 
 ### About Me
