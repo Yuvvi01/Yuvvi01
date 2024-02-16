@@ -25,7 +25,7 @@ Hi there! I'm a **dedicated** security professional committed to securing the di
 ### Connect with Me:
 
 * **LinkedIn:** [https://www.linkedin.com/in/yuvraj-singh-01/](https://www.linkedin.com/in/yuvraj-singh-01/)
-* **Twitter:** [https://twitter.com/MetaverseWeirdo](https://twitter.com/CybersecNomad)
+* **Twitter:** [https://twitter.com/CybersecNomad](https://twitter.com/CybersecNomad)
 * **Tryhackme:** [https://tryhackme.com/p/Yuvi01](https://tryhackme.com/p/Yuvi01)
 
 I'm always open to **exploring opportunities, contributing to projects, and collaborating on security endeavors**. Feel free to reach out!
